@@ -1,4 +1,4 @@
-# Olá, eu sou o Nicolas Nordio 👋
+# Olá, eu sou o Nicolas
 
 ### Desenvolvedor de soluções com IA e automação
 
